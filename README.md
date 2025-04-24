@@ -10,17 +10,17 @@ This Tableau project contains two dashboards — **Customer Dashboard** and **Sa
 Gives insights into customer data, behavior, and trends. Helps marketing and management teams improve customer segmentation and satisfaction.
 
 ### ✅ Features
-- KPI Overview:
-  - Total customers (current & previous year)
+- KPI Overview: (current & previous year, with highest and lowest marks )
+  - Total customers 
   - Total sales per customer
   - Total orders
-- Monthly trend comparison (current vs previous year)
-- Order distribution visualization
+    
+- Customer Distribution by No. of Orders (Bar Chart)
 - Top 10 customers by profit with tooltips for:
   - Rank
-  - Orders
-  - Sales
-  - Profit
+  - Orders Count
+  - Current Year Sales
+  - Current Year Profit
   - Last order date
 
 ---
@@ -31,13 +31,12 @@ Gives insights into customer data, behavior, and trends. Helps marketing and man
 Analyzes year-over-year sales performance and product-level trends.
 
 ### ✅ Features
-- KPI Overview:
+- KPI Overview: (current & previous year, with highest and lowest marks )
   - Total sales, profit, and quantity
-- Monthly sales and profit trends
 - Product subcategory performance comparison
-- Weekly sales & profit trends with:
+- 52 Weeks sales & profit trends with:
   - Average line
-  - Highlighted spikes and dips
+ 
 
 ---
 
