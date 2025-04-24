@@ -53,7 +53,11 @@ Analyzes year-over-year sales performance and product-level trends.
 3. Switch between dashboards via tabs at the bottom
 
 ---
-
+## 📸 Preview
+![Dashboard Preview](screenshots/sales_dashboard_1.png)
+![Dashboard Preview](screenshots/sales_dashboard_2.png)
+![Dashboard Preview](screenshots/customer_dashboard_1.png)
+![Dashboard Preview](screenshots/customer_dashboard_2.png)
 ## 🙌 Acknowledgements
 
 Thanks to [Data With Baraa](https://www.youtube.com/@DataWithBaraa) for the detailed and practical Tableau tutorials that inspired this project.
